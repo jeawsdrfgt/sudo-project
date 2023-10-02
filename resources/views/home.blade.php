@@ -18,7 +18,7 @@
 
                         <ul class="nav-header">
                             <li>
-                                <a href="music.html" target="_parent">MUSIC</a>
+                                <a href="/music" target="_parent">MUSIC</a>
                             </li>
                             <li>
                                 <a href="videos.html" target="_parent">VIDEOS</a>

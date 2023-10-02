@@ -27,4 +27,8 @@ Route::get('/terms', function () {
     return view('terms');
 });
 
+Route::get('/music', function () {
+    return view('music');
+});
+
 Route::post('/subscribe', 'App\Http\Controllers\FansController@store');
